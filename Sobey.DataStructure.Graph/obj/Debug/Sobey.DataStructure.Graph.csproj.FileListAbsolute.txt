@@ -3,3 +3,9 @@ E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Graph\bi
 E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Graph\obj\Debug\Sobey.DataStructure.Graph.exe
 E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Graph\obj\Debug\Sobey.DataStructure.Graph.pdb
 E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Graph\obj\Debug\Sobey.DataStructure.Graph.csprojResolveAssemblyReference.cache
+E:\vs_station\DataStructure.Samples.CSharp\Sobey.DataStructure.Graph\bin\Debug\Sobey.DataStructure.Graph.exe
+E:\vs_station\DataStructure.Samples.CSharp\Sobey.DataStructure.Graph\bin\Debug\Sobey.DataStructure.Graph.pdb
+E:\vs_station\DataStructure.Samples.CSharp\Sobey.DataStructure.Graph\obj\Debug\Sobey.DataStructure.Graph.csprojAssemblyReference.cache
+E:\vs_station\DataStructure.Samples.CSharp\Sobey.DataStructure.Graph\obj\Debug\Sobey.DataStructure.Graph.csproj.CoreCompileInputs.cache
+E:\vs_station\DataStructure.Samples.CSharp\Sobey.DataStructure.Graph\obj\Debug\Sobey.DataStructure.Graph.exe
+E:\vs_station\DataStructure.Samples.CSharp\Sobey.DataStructure.Graph\obj\Debug\Sobey.DataStructure.Graph.pdb

@@ -10,7 +10,7 @@ namespace Sobey.DataStructure.Graph
         static void Main(string[] args)
         {
             // Test01
-            //MyAdjacencyListTest();
+            MyAdjacencyListTest();
             // Test02
             //MyAdjacencyListTraverseTest();
             // Test03
@@ -20,7 +20,7 @@ namespace Sobey.DataStructure.Graph
             // Test05
             //DijkstraTest();
             // Test06
-            FloydTest();
+            //FloydTest();
 
             Console.ReadKey();
         }
